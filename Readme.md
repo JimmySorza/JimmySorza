@@ -2,8 +2,6 @@
 
 Hello! I am Jimmy Sorza and a Full Stack Web Developer.
 
-I am a highly-skilled, senior-level full-stack developer, well versed in software development, systems administration, and project management best practices.
-
 ## 👨‍💻 Programming Languages
 
 <p>
